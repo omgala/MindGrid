@@ -1,0 +1,36 @@
+{
+  "responses": [
+    {
+      "questionId": "1542909b-e63b-4086-8dac-18a0b50e077a",
+      "responseValue": 0
+    },
+    {
+      "questionId": "a72ef4cf-cce5-4207-a9b3-9cba16bf0f65",
+      "responseValue": 1
+    },
+    {
+      "questionId": "43d5f31a-17ec-4db0-ab3a-6c2d72590800",
+      "responseValue": 2
+    },
+    {
+      "questionId": "91426c44-9121-400f-88ab-19a3bbde5175",
+      "responseValue": 1
+    },
+    {
+      "questionId": "fc740312-e86f-405a-a4bd-7f5d05bd57d6",
+      "responseValue": 2
+    },
+    {
+      "questionId": "44e595d1-18ba-4ef0-88f8-363d2e15102e",
+      "responseValue": 1
+    },
+    {
+      "questionId": "f6db232f-6870-4389-8fa0-8a949249fb42",
+      "responseValue": 0
+    },
+    {
+      "questionId": "292e3280-1a99-4f1c-82d2-510557ee09d6",
+      "responseValue": 1
+    }
+  ]
+}
